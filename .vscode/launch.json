@@ -1,0 +1,22 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "juego",
+            "request": "launch",
+            "mainClass": "juego",
+            "projectName": "Euromillon con visual_f3f739f7",
+            "args": ["2.45345","3.54"] // el precio de los numeros y las estrellas.
+        }
+    ]
+}
